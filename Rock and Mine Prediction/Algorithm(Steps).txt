@@ -1,0 +1,13 @@
+1. Import the dependencies
+
+2. Import the data
+
+3. Pre-process/ Prepare the data for the model
+
+4. Split the data into train and test sets
+
+5. Train the Model
+
+6. Evaluate the model
+
+7. Build predictive system for the new Data Inputs to be predicted
