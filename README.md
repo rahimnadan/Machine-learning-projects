@@ -1,2 +1,2 @@
 # Machine-learning-projects
-The "Machine Learning Projects" repository is a collection of machine learning projects that utilize various algorithms, frameworks, and libraries to solve data-related problems such as prediction and classification. ThIs repository contains exciting beginner level projects which can be used for pushing the walls into practical work.
+The "Machine Learning Projects" repository is a collection of machine learning projects that utilize various algorithms, frameworks, and libraries to solve data-related problems such as prediction and classification. ThIs repository contains exciting beginner level projects which can be used for pushing the walls into practical work. We will adding more projects ahead to this.
